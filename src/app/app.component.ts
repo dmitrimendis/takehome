@@ -1,7 +1,5 @@
 import { Component} from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { GithubComponent } from './github/github.component';
-import { GithubService } from './services/github.service';
 
 @Component({
   selector: 'app-root',
