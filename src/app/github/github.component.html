@@ -45,7 +45,7 @@
                                         <span class="label label-success" style="color:limegreen">{{repo.forks}}: Forks</span>
                                         <br>
                                         <button type="button" class="btn btn-sm btn-outline-primary" (click)="getCommits(repo.index, repo.name)">Display Commits</button>
-                                        <button type="button" class="btn btn-sm btn-outline-danger" (click)="clearCommits(repo.index)">Undisplay Commits</button>
+                                        <button type="button" class="btn btn-sm btn-outline-danger" (click)="clearCommits(repo.index)">Hide</button>
                                     </div>
                                 </div>
                                 <ng-container *ngIf="repo.commits[0]">
