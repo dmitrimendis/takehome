@@ -1,0 +1,35 @@
+.org-info {
+    border-top: 1px dashed #5f5f5f;
+    border-bottom: 1px dashed #5f5f5f;
+}
+.org-search {
+    display: flex;
+    justify-content: space-between;
+}
+.orgName {
+    margin-top: 5px;
+}
+.org-metadata {
+    font-size: 1.5rem;
+    padding-top: 15px;
+    padding-right: 15px;
+    text-align: right;
+    font-weight: 500;
+
+}
+.username {
+    text-align: center;
+}
+.repo-info {
+
+    margin-top: 12px;
+    margin-right: 5px;
+    border: 1px solid #bfbfbf;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.commit-info {
+    padding-left: 5px;
+    font-weight: 400;
+    color: #3a9fbf;
+    border-top: 1px dashed #eee;
+}

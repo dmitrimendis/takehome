@@ -1,0 +1,14 @@
+C:\Users\dmitrimendis\source\repos\takehome\takehome\bin\Debug\netcoreapp2.2\takehome.deps.json
+C:\Users\dmitrimendis\source\repos\takehome\takehome\bin\Debug\netcoreapp2.2\takehome.runtimeconfig.json
+C:\Users\dmitrimendis\source\repos\takehome\takehome\bin\Debug\netcoreapp2.2\takehome.runtimeconfig.dev.json
+C:\Users\dmitrimendis\source\repos\takehome\takehome\bin\Debug\netcoreapp2.2\takehome.dll
+C:\Users\dmitrimendis\source\repos\takehome\takehome\bin\Debug\netcoreapp2.2\takehome.pdb
+C:\Users\dmitrimendis\source\repos\takehome\takehome\obj\Debug\netcoreapp2.2\takehome.csprojAssemblyReference.cache
+C:\Users\dmitrimendis\source\repos\takehome\takehome\obj\Debug\netcoreapp2.2\takehome.csproj.CoreCompileInputs.cache
+C:\Users\dmitrimendis\source\repos\takehome\takehome\obj\Debug\netcoreapp2.2\takehome.RazorAssemblyInfo.cache
+C:\Users\dmitrimendis\source\repos\takehome\takehome\obj\Debug\netcoreapp2.2\takehome.RazorAssemblyInfo.cs
+C:\Users\dmitrimendis\source\repos\takehome\takehome\obj\Debug\netcoreapp2.2\takehome.AssemblyInfoInputs.cache
+C:\Users\dmitrimendis\source\repos\takehome\takehome\obj\Debug\netcoreapp2.2\takehome.AssemblyInfo.cs
+C:\Users\dmitrimendis\source\repos\takehome\takehome\obj\Debug\netcoreapp2.2\takehome.RazorTargetAssemblyInfo.cache
+C:\Users\dmitrimendis\source\repos\takehome\takehome\obj\Debug\netcoreapp2.2\takehome.dll
+C:\Users\dmitrimendis\source\repos\takehome\takehome\obj\Debug\netcoreapp2.2\takehome.pdb
